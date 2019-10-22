@@ -2,7 +2,7 @@
 
 ### Usage
 
-*transform_image_resolution.py*
+1. *transform_image_resolution.py*
 
 ```
 python transform_image_resolution.py -d images/ -s 800 600
