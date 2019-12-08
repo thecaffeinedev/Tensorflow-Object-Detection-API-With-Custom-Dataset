@@ -1,3 +1,5 @@
+# Usage -  python3 transform_image_resolution.py -d images/ -s 800 600
+
 from PIL import Image
 import os
 import argparse

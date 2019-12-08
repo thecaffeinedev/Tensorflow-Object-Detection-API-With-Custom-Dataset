@@ -1,9 +1,3 @@
-## Tensorflow Object Detection API With Custom-Dataset
+## Tensorflow Object Detection API With Custom-Dataset Using Google Colab
 
-### Usage
-
-1. *transform_image_resolution.py*
-
-```
-python3 transform_image_resolution.py -d images/ -s 800 600
-```
+### 
