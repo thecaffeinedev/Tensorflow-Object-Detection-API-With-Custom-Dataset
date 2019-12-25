@@ -8,3 +8,4 @@ This repository contains the the code files of Tensorflow Object Detection API u
 
 You can find full description on my blog post.
 
+https://medium.com/analytics-vidhya/custom-object-detection-with-tensorflow-using-google-colab-7cbc484f83d7
